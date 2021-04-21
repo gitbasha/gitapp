@@ -1,2 +1,2 @@
 # gitapp
-Cool Git App
+Very cool Git App
